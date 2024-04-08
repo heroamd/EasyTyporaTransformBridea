@@ -15,10 +15,10 @@ Just like: `![image-1](.\pic\image-1.png)`
 
 ##### 2、Then you need to copy one of the ENGLISH version or CHINESE version script in your folder, and modify these path:
 ![image](https://github.com/heroamd/EasyTyporaTransformToGridea/assets/47046657/24171d47-e3a1-4fcc-82a5-56116aa20c17)
-+ THE directory_path REFER to your <Gridea project was created path>/poster, such as 'D:/blog/posts'
-+ THE dst REFER to <The directory location for storing images in Gridea>/post-images, such as 'D:/blog/posts/post-images'
-+ THE pic_path REFER to <The default location where Typora automatically saves inserted images>/pic. such as  'C:/Users/xxx/Desktop/master/Notes/pic/'
-+ THE new_base_path means the replaced image path in your unmodified MD document. Such as 'file://D:/blog/posts/post-images/' Tips: must same as 'dst' PATH
++ THE directory_path REFER to your `<Gridea project was created path>/poster`, such as `D:/blog/posts`.
++ THE dst REFER to `<The directory location for storing images in Gridea>/post-images`, such as `D:/blog/posts/post-images`.
++ THE pic_path REFER to `<The default location where Typora automatically saves inserted images>/pic`. such as `C:/Users/xxx/Desktop/master/Notes/pic/`.
++ THE new_base_path means the replaced image path in your unmodified MD document. Such as `file://D:/blog/posts/post-images/` Tips: must same as `dst` PATH
 
 * IMPORTANT: use `/` but not `\` in windows!!!!
 
