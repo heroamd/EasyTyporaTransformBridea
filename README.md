@@ -20,6 +20,9 @@ THE dst REFER to <The directory location for storing images in Gridea>/post-imag
 THE pic_path REFER to <The default location where Typora automatically saves inserted images>/pic. such as  'C:/Users/xxx/Desktop/master/Notes/pic/'
 THE new_base_path means the replaced image path in your unmodified MD document. Such as 'file://D:/blog/posts/post-images/' Tips: must same as 'dst' PATH
 
-* IMPORTANT: use '/' but not '\' in windows!!!!*
+* IMPORTANT: use '/' but not '\' in windows!!!!
 
-* THIS SCRIPT WILL AUTO COPY IMAGE FILES TO GRIDEA IMAGE_PATH AND REPLACE THE OLD MD DOCUMENTS! *
+* THIS SCRIPT WILL AUTO COPY IMAGE FILES TO GRIDEA IMAGE_PATH AND REPLACE THE OLD MD DOCUMENTS!
+
+* ![Uploading 9b28b00c805014d4c23acabba0f348d.jpg…]()
+
