@@ -24,5 +24,6 @@ Just like: `![image-1](.\pic\image-1.png)`
 
 * THIS SCRIPT WILL AUTO COPY IMAGE FILES TO GRIDEA IMAGE_PATH AND REPLACE THE OLD MD DOCUMENTS!
 
-* ![Uploading 9b28b00c805014d4c23acabba0f348d.jpg…]()
+![9b28b00c805014d4c23acabba0f348d](https://github.com/heroamd/EasyTyporaTransformToGridea/assets/47046657/4efdf7b9-592c-4c60-a26d-4fe62e0cdad5)
+
 
