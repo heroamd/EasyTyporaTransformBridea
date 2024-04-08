@@ -2,7 +2,7 @@
 ## EasyTyporaTransformToGridea is an easy way to create and edit MD documents with Typora and deploy them to pages by Gridea.
 ## The most inconvenient part of using Gridea is how to quickly replace the picture file PATHs and copy picture files to adapt to the Gridea environment.
 
-###This script help you use Typora as MD document editor and use Gridea as deployor for your own Blog.
+### This script help you use Typora as MD document editor and use Gridea as deployor for your own Blog.
 
 ### Here is the using DEMO:
 
